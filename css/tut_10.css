@@ -1,0 +1,23 @@
+
+.container{
+    background-color: white;
+    margin: 2rem;
+    display: flex;
+    height: 120px;
+    justify-content: space-between;
+    border:  solid red;
+    border-width: 2px;
+   
+    width:20rem ;
+
+   
+   
+}
+div{
+    background-color: black;
+    color: white;
+    line-height: 2rem;
+    height: 120px;
+    width: 2rem;
+        
+}

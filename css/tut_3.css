@@ -1,0 +1,26 @@
+a{
+    color: black;
+    
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color:maroon;
+    
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+    
+}
+/* Pseudo class element called marker */
+::marker{
+    color: violet;
+    font-size: xx-large;
+    content: "Jai mata di";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

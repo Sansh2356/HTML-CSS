@@ -1,0 +1,18 @@
+#Heading{
+    text-align: center;
+}
+nav{
+   text-align: center;
+   border-style: groove;
+ border-radius: 2rem;
+ padding-bottom: 2rem;
+ padding-left: 1px;
+}
+#small{
+    text-align: center;
+}
+a{
+    font-size: xx-large;
+   text-align: end;
+    
+}

@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.outercontainer{
+margin: 40px auto;
+border: 3px;
+border-style: dashed;
+border-color: red;
+height: 100pc;
+margin-right: 40px;
+margin-left:40px;
+
+padding: 3.25rem;
+
+
+}
+.innercontainer{
+    margin:4rem;
+    border: 10px;
+    border-style: solid;   
+    height: 190vh;
+    margin-bottom: 4rem;
+     
+}
+#Absoluteposition{
+background-color: yellow;
+padding: 2rem;
+text-align: center;
+position: absolute;
+top:0 ;
+left: 0;
+
+}
+#RelativePosition{
+background-color: gold;
+position: relative;
+padding: 2rem;
+margin: 2rem;
+left: 4rem;
+}
+#fixed{
+    background-color: greenyellow;
+    position: fixed;
+    top: 100px;
+}

@@ -1,0 +1,26 @@
+#div1{
+background-color: red;
+font-size: xx-large;
+height:50rem;
+margin: 2rem;
+text-align: left;
+position: sticky;
+top: 0;
+}
+#div2{
+background-color: aqua;
+font-size: xx-large;
+height: 50rem;
+margin: 2rem;
+position: sticky;
+top: 0;
+}
+footer{
+    background-color: black;
+    margin: 2rem;
+    text-align: center;
+    font-size: xx-large;
+    position: fixed;
+    bottom: 0;
+
+}

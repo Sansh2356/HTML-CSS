@@ -1,0 +1,29 @@
+ #headings{
+    font-style: oblique;
+    text-align: center;
+    border: 1rem;
+    border-style: dotted;
+    border-color: aqua;
+    border-radius: 10000px;
+    margin: 4rem;
+
+}
+body{
+    background-color: royalblue;
+}
+#buttons{
+    background-color: lawngreen;
+    padding: 1rem,1rem,1rem,1rem;
+    margin: 2rem;
+    border: 0.5rem;
+    border-style: dashed;
+    border-color: red;
+}
+#navigation_bar{
+    background-color: wheat;
+  margin:4rem;
+  margin-right: 70rem;
+  text-align:start
+}
+
+
